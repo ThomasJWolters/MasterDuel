@@ -1,3 +1,16 @@
 {
- "link": "https://i.imgur.com/xxS43Ai.gif"
+ "adminInformation": {
+  "name": "???",
+  "age": "??",
+  "birth": "??-?-????",
+  "gender": "male",
+  "height":"175cm",
+  "weight":"100kg",
+  "live":"??",
+  "nation":"VietNam",
+  "facebook":"??",
+  "youtube": "??",
+  "twitter":"??",
+  "instagram":"??"
+ }
 }
